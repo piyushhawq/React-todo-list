@@ -1,0 +1,50 @@
+body {
+  background-image: linear-gradient(to right, #d4da72, #69d4f7);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.Heading {
+  font-size: 45px;
+}
+.Heading:hover {
+  color: rgb(17, 61, 102);
+}
+.Table {
+  margin-left: 40px;
+  background-image: linear-gradient(to right, #68e8c8, #e98b3f);
+  color: black;
+  border-radius: 7px;
+  box-shadow: 5px 10px #2d2c2c;
+ 
+}
+  
+.form {
+  height: 50vh;
+
+  margin: 5px 5px 5px 950px;
+  background: url("https://raw.githubusercontent.com/piyushhawq/TodoList.github.io/main/assets/images/todo%20background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 2px 4px #2d2c2c;
+
+
+}
+
+.update-button:hover {
+  background-color: darkslategrey;
+  color: white;
+}
+.button{
+  background-color: rgb(255, 255, 255);
+}
+.button:hover {
+  background-color: rgb(251, 4, 4);
+  color: rgb(255, 255, 255);
+}
